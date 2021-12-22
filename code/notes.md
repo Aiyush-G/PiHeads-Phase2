@@ -91,4 +91,7 @@ Now, this causes issues, since the year has no direct correlation on the value. 
 ### Idea - 3 - Timeseries
 I'd never heard of timeseries before researching the regression modelling. It seems that timeseries allows us to predict the next value in a list given when that number was recorded. Ie. predicting the number of subscribers that a youtube channel has.
 
+#### ➡️ Example Workflow - https://towardsdatascience.com/announcing-pycarets-new-time-series-module-b6e724d4636c 
+
+
 
